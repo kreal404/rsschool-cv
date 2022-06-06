@@ -1,2 +1,1 @@
-# rsschool-cv
-js-stage0
+https://kreal404.github.io/rsschool-cv/cv
